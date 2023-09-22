@@ -1,6 +1,6 @@
 # Siteseeker
 
-This Python program, "Website Information Seeker," extracts key details about websites. It reveals domain, IP, web server, CMS (e.g., WordPress) info, and WHOIS data.
+This Python script, "SiteSeeker," extracts key details about websites. It reveals domain, IP, web server, CMS (e.g., WordPress) info, and WHOIS data.
 
 ## Using the Script
 **Ensure Python is Installed:** Confirm Python is installed on your system.
